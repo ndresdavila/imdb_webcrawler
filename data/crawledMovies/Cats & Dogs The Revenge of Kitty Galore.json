@@ -1,0 +1,61 @@
+[{
+  "title": "Cats & Dogs: The Revenge of Kitty Galore",
+  "year": "2019",
+  "url": "https://www.imdb.com//title/tt5697572/?ref_=fn_ft_tt_1",
+  "genreList": [
+    "Comedy",
+    "Drama",
+    "Family",
+    "Fantasy",
+    "Musical"
+  ],
+  "countryList": [
+    "UK",
+    "USA",
+    "Canada",
+    "Australia"
+  ],
+  "description": "A tribe of cats called the Jellicles must decide yearly which one will ascend to the Heaviside Layer and come back to a new Jellicle life.",
+  "budget": "$95,000,000 (estimated)",
+  "gross": "$73,835,438",
+  "ratingValue": "2.7",
+  "ratingCount": "43,896",
+  "duration": "1h 50min",
+  "castList": [
+    "Robbie Fairchild",
+    "Mette Towley",
+    "Daniela Norman",
+    "Jaih Betote",
+    "Larry Bourgeois",
+    "Laurent Bourgeois",
+    "Francesca Hayward",
+    "Jonadette Carpio",
+    "Laurie Davidson",
+    "Zizi Strallen",
+    "Freya Rowley",
+    "Idris Elba",
+    "Naoimh Morgan",
+    "Danny Collins",
+    "Bluey Robinson"
+  ],
+  "characterList": [
+    "Munkustrap",
+    "Cassandra",
+    "Demeter",
+    "Coricopat",
+    "Plato",
+    "Socrates",
+    "Victoria",
+    "Syllabub",
+    "Mr. Mistoffelees",
+    "Tantomile",
+    "Jellylorum",
+    "Macavity",
+    "Rumpleteazer",
+    "Mungojerrie",
+    "Alonzo"
+  ],
+  "directorList": [
+    "Tom Hooper"
+  ]
+}]

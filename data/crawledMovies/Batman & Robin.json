@@ -1,0 +1,52 @@
+[{
+  "title": "Batman & Robin",
+  "year": "2022",
+  "url": "https://www.imdb.com//title/tt1877830/?ref_=fn_ft_tt_1",
+  "genreList": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "countryList": [
+    "USA"
+  ],
+  "description": "The plot is unknown.",
+  "budget": "",
+  "gross": "",
+  "ratingValue": "",
+  "ratingCount": "",
+  "duration": "",
+  "castList": [
+    "Amber Sienna",
+    "Andy Serkis",
+    "Robert Pattinson",
+    "Colin Farrell",
+    "Zoë Kravitz",
+    "Paul Dano",
+    "Peter Sarsgaard",
+    "John Turturro",
+    "Barry Keoghan",
+    "Jeffrey Wright",
+    "Rupert Penry-Jones",
+    "Alex Ferns",
+    "Con O'Neill"
+  ],
+  "characterList": [
+    "Gentlemen's Club Hostess",
+    "Alfred Pennyworth",
+    "Bruce Wayne / Batman",
+    "Oswald Cobblepot / The Penguin",
+    "Selina Kyle / Catwoman",
+    "Edward Nashton / The Riddler",
+    "District Attorney Gil Colson",
+    "Carmine Falcone",
+    "Officer Stanley Merkel",
+    "James Gordon",
+    "Mayor Don Mitchell Jr",
+    "Commissioner Pete Savage",
+    "Chief Mackenzie Bock"
+  ],
+  "directorList": [
+    "Matt Reeves"
+  ]
+}]

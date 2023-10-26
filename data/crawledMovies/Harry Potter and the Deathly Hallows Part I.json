@@ -1,0 +1,57 @@
+[{
+  "title": "Harry Potter and the Deathly Hallows: Part I",
+  "year": "2011",
+  "url": "https://www.imdb.com//title/tt1201607/?ref_=fn_ft_tt_1",
+  "genreList": [
+    "Adventure",
+    "Drama",
+    "Fantasy",
+    "Mystery"
+  ],
+  "countryList": [
+    "UK"
+  ],
+  "description": "Harry (Daniel Radcliffe), Ron (Rupert Grint), and Hermione (Emma Watson) continue their quest of finding and destroying Voldemort's (Ralph Fiennes') three remaining Horcruxes, the magical items responsible for his immortality. But as the mystical Deathly Hallows are uncovered, and Voldemort finds out about their mission, the biggest battle begins, and life as they know it will never be the same again.",
+  "budget": "$125,000,000 (estimated)",
+  "gross": "$1,342,321,665",
+  "ratingValue": "8.1",
+  "ratingCount": "778,444",
+  "duration": "2h 10min",
+  "castList": [
+    "Ralph Fiennes",
+    "Michael Gambon",
+    "Alan Rickman",
+    "Daniel Radcliffe",
+    "Rupert Grint",
+    "Emma Watson",
+    "Evanna Lynch",
+    "Domhnall Gleeson",
+    "Clémence Poésy",
+    "Warwick Davis",
+    "John Hurt",
+    "Helena Bonham Carter",
+    "Graham Duff",
+    "Anthony Allgood",
+    "Rusty Goffe"
+  ],
+  "characterList": [
+    "Lord Voldemort",
+    "Professor Albus Dumbledore",
+    "Professor Severus Snape",
+    "Harry Potter",
+    "Ron Weasley",
+    "Hermione Granger",
+    "Luna Lovegood",
+    "Bill Weasley",
+    "Fleur Delacour",
+    "Griphook / Professor Filius Flitwick",
+    "Ollivander",
+    "Bellatrix Lestrange",
+    "Death Eater",
+    "Gringotts' Guard",
+    "Aged Gringotts' Goblin"
+  ],
+  "directorList": [
+    "David Yates"
+  ]
+}]
